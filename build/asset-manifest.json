@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba45df63.css",
+    "main.js": "/static/js/main.36d62ae2.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/meal.png": "/static/media/meal.8d0faeffa0fc80c3ca8c.png",
+    "static/media/h3.jpg": "/static/media/h3.e4f9845eb74dffc93a41.jpg",
+    "static/media/eco.png": "/static/media/eco.57b48b10b29e63b98396.png",
+    "static/media/academic.png": "/static/media/academic.83cfb23eeff40e38689e.png",
+    "static/media/MongoDB_page.jpg": "/static/media/MongoDB_page.bcfe338de66e756a0337.jpg",
+    "static/media/software_engineer_intern certificate_page-0001.jpg": "/static/media/software_engineer_intern certificate_page-0001.bdc8e529269585f9fe03.jpg",
+    "static/media/HTML Certificate.jpg": "/static/media/HTML Certificate.d45b9fa0689bc8ebcf22.jpg",
+    "static/media/Data structure.png": "/static/media/Data structure.707529081da6216f653c.png",
+    "static/media/Intenship and Job preparation.png": "/static/media/Intenship and Job preparation.68e1883ece0e442c0fca.png",
+    "static/media/Udemy_Python.jpg": "/static/media/Udemy_Python.b0c6603b9dbd3c351f21.jpg",
+    "static/media/portfolio.png": "/static/media/portfolio.544fa25cae0e630ff5bd.png",
+    "static/media/pc.png": "/static/media/pc.06ad21ea51446dc1062f.png",
+    "static/media/Vs.png": "/static/media/Vs.19edc3fbac1c451f289d.png",
+    "static/media/pg.png": "/static/media/pg.9f8f5cd98ce5726b002f.png",
+    "static/media/hd.png": "/static/media/hd.53b02a8406e1b288873e.png",
+    "static/media/github.png": "/static/media/github.345dc4a21070f9083ca7.png",
+    "static/media/Gayatri Jadhav resume.pdf": "/static/media/Gayatri Jadhav resume.3565ac3e7fd9243a7a4b.pdf",
+    "static/media/calculator.png": "/static/media/calculator.94db060930d57854e12e.png",
+    "static/media/dc.png": "/static/media/dc.92f52ea55245d0a60c47.png",
+    "static/media/age.png": "/static/media/age.4c61218df990d2501f64.png",
+    "static/media/calendar.png": "/static/media/calendar.88c5e6578229aaa9bbc4.png",
+    "static/media/onboarding.png": "/static/media/onboarding.000d21ec94e846f3d089.png",
+    "static/media/chorme.svg": "/static/media/chorme.b0bd08e3d4226484ce842d3453b979e9.svg",
+    "index.html": "/index.html",
+    "main.ba45df63.css.map": "/static/css/main.ba45df63.css.map",
+    "main.36d62ae2.js.map": "/static/js/main.36d62ae2.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba45df63.css",
+    "static/js/main.36d62ae2.js"
+  ]
+}
